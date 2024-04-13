@@ -39,4 +39,6 @@ If you want to know the story of how i made this extension click on this link...
 
 https://forum.gamemaker.io/index.php?threads/essential-dynamic-library.111349/
 
+If the link does not work try copying it and pasting it and then press enter.
+
 Have fun~ (o゜▽゜)o☆.
