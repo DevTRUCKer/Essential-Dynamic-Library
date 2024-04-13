@@ -36,6 +36,7 @@ This is the same as the project .zip but exported as .yyz file.
 And about the source code section i will include it later...
 
 If you want to know the story of how i made this extension click on this link...
-[Click Me](https://forum.gamemaker.io/index.php?threads/essential-dynamic-library.111349/)
+
+https://forum.gamemaker.io/index.php?threads/essential-dynamic-library.111349/
 
 Have fun~ (o゜▽゜)o☆.
