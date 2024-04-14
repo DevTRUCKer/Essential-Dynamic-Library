@@ -39,6 +39,7 @@ If you want to know the story of how i made this extension click on this link...
 
 https://forum.gamemaker.io/index.php?threads/essential-dynamic-library.111349/
 
-If the link does not work try copying it and pasting it and then press enter.
+Thanks [fadziljusri](https://github.com/fadziljusri) for the [hijri date calculation](https://github.com/fadziljusri/Cplusplus-Gregorian-to-Hijri) ヾ(^▽^*)).
+Also i used [JsonCPP](https://github.com/open-source-parsers/jsoncpp)
 
 Have fun~ (o゜▽゜)o☆.
