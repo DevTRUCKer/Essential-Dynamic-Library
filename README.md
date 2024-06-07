@@ -1,5 +1,5 @@
 # Essential Dynamic Library
-![](https://github.com/DevTRUCKer/Essential-Dynamic-Library/blob/master/edl_icon.png?raw=true)
+![](https://github.com/DevTRUCKer/Essential-Dynamic-Library/blob/master/edl_logo.png?raw=true)
 
 EDL is just a helper extension for GMS2.
 
@@ -30,7 +30,7 @@ Like you see it say's Demo that mean it's just an example program to see what th
 This is the Source Code project in GMS2 i was using the latest Beta release but i changed to Stable but it will always work with Beta.
 
 3- Essential.Dynamic.Library.v$-$-$.yymps
-The Package all you need is just drag and drop it to your game to import it and all done you can now use the extension.
+The Package all you need is just drag and drop it to your game to import it and all done you can now use the extension and delete any unnecessary things like objects or rooms.
 
 4- Essential.Dynamic.Library.v$-$-$.yyz
 This is the same as the project .zip but exported as .yyz file.
