@@ -3,6 +3,10 @@
 
 EDL is just a helper extension for GMS2.
 
+For windows platform only.
+
+It can work for any GMS version but not the legacy one because i didn't test it.
+
 It's very useful for working outside the sandbox... it was fun making this extension!
 
 Every function in this library is very easy to use.
@@ -13,13 +17,13 @@ You can work with filesystem.
 
 Also you can control your window, most window functions not only used for your game window it also can work with other windows, but keep in mind that some windows uses a different styles so it may not work with it.
 
-And there is a lot more i can tell you... but am so lazy for that go check by yourself the example project it has a guide note!
+And there is a super mega lot more... go check demo for testing or the project it has a guide note!
+
+Every function have it's description/guide and examples.
 
 If i update the library the project will be updated too!
 
 Keep in mind for now i tested it on Windows 10 x64 so please tell me if it is working for you.
-
-And i don't have linux or MacOS so if you really want support for those tell me and i will try to learn and code for them with no testing but you will be the testor okay...!
 
 The download section "Releases" you will always see four files.
 
@@ -35,11 +39,7 @@ The Package all you need is just drag and drop it to your game to import it and 
 4- Essential.Dynamic.Library.v$-$-$.yyz
 This is the same as the project .zip but exported as .yyz file.
 
-And about the source code section i will include it later...
-
-If you want to know the story of how i made this extension click on this link.
-
-https://forum.gamemaker.io/index.php?threads/essential-dynamic-library.111349/
+If you want to know the story of how i made this extension [click here](https://forum.gamemaker.io/index.php?threads/essential-dynamic-library.111349/).
 
 Thanks [fadziljusri](https://github.com/fadziljusri) for the [hijri date calculation](https://github.com/fadziljusri/Cplusplus-Gregorian-to-Hijri) ヾ(^▽^*)).
 
