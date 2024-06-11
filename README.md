@@ -1,7 +1,7 @@
 # Essential Dynamic Library
 ![](https://github.com/DevTRUCKer/Essential-Dynamic-Library/blob/master/edl_logo.png?raw=true)
 
-EDL is just a helper extension for GMS2.
+EDL is just a helper extension for GMS2 and for me by default.
 
 For windows platform only.
 
