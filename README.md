@@ -1,6 +1,8 @@
 # Essential Dynamic Library
 ![](https://github.com/DevTRUCKer/Essential-Dynamic-Library/blob/master/edl_logo.png?raw=true)
 
+This repo closed forever, you still can download i think, bye!
+
 EDL is just a helper extension for GMS2 and for me by default.
 
 For windows platform only.
